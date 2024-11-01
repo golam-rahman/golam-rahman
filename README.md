@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Md Golam Rahman Curzon
+## Hi there, my name is Md Golam Rahman
 #### I am a Full-stack Web Application Developer
 I have been developing cross-platform web-based applications since 2006, with main responsibilities in analysis, design, and development. I am an expert in CodeIgniter and several other MVC frameworks, and I possess strong knowledge of databases, including MySQL, PostgreSQL, SQLite, Oracle 11g, and PL/SQL programming. I have extensive project experience with the Smarty template engine and a solid command of CSS and design template customization.
 
