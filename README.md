@@ -4,7 +4,7 @@ I have been developing cross-platform web-based applications since 2006, with ma
 
 In addition to coding, I enjoy conducting requirement analysis and design. I have served as a team leader on large projects and have managed other teams as well. I have also designed databases and workflows for social networking sites and various e-commerce applications. I am passionate about learning more about software engineering and project management.
 
-Key knowledge: • PHP • Codeigniter • mySQL • PgSQL • PL/SQL • Oracle • HTML • XML • HTML5 • JavaScript • Smarty • jQuery • Ajax • C • C++ • Java • SpringBoot • CSS.
+Skils: •PHP •Codeigniter •Java •Struts •SpringBoot •Database Desing •MySQL •PgSQL •Oracle Database •PL/SQL •HTML5 •CSS •JavaScript •jQuery •Smarty •C •C++.
 
 - 🔭 I’m currently working on web application development using Java struts and Spring Boot.
 - 🌱 I’m currently learning JavaScript and React 
